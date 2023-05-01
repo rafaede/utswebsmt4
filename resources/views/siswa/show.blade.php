@@ -7,10 +7,10 @@
             <b>Nomor Induk</b>{{$data->nomor_induk}}
         </p>
         <p>
-            <b>Alamat</b>{{$data->nomor_induk}}
+            <b>Nama</b>{{$data->nama}}
         </p>
         <p>
-            <b>Nomor Induk</b>{{$data->nomor_induk}}
+            <b>Alamat</b>{{$data->alamat}}
         </p>
     </div>
 @endsection
